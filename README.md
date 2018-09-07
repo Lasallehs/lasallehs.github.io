@@ -1,4 +1,6 @@
-# lasallehsinteralliance.github.io
+# lasallehs.github.io
 Website for Lasallehs Interalliance
-
-Allan please add details
+Main contributors:
+Jack Sherwood
+Jonathon Sherwood
+Seriously someone please help

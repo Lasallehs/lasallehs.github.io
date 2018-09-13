@@ -21,3 +21,11 @@ overflow: hidden;
     background-color: #e00000;
     color: white;
 }
+.slideshow {  
+    position:relative;
+    margin:0 auto;
+    clear:left;
+    height:auto;
+    z-index: 0;
+    text-align:center;
+}​
